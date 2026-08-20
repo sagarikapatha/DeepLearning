@@ -8,6 +8,14 @@ This project explores deepfake image detection using a CNN-based binary classifi
 
 The workflow includes image preprocessing, dataset splitting, data augmentation, CNN model development, hyperparameter tuning, evaluation, and prediction visualization.
 
+## Dataset
+
+The image dataset was sourced from Kaggle and contained real and fake images for binary classification.
+
+Images were preprocessed and resized to 64 × 64 pixels to maintain a consistent input format for the CNN.
+
+The data was divided into training, validation, and test sets for model development and evaluation.
+
 ## Tech Stack
 
 - Python
