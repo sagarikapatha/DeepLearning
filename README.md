@@ -16,6 +16,10 @@ Images were preprocessed and resized to 64 × 64 pixels to maintain a consistent
 
 The data was divided into training, validation, and test sets for model development and evaluation.
 
+## Project Context
+
+This project was developed as part of a three-member academic team focused on exploring deep learning techniques for deepfake detection. The project involved dataset preparation, CNN-based image classification, hyperparameter tuning, model evaluation, and research on deepfake detection techniques.
+
 ## Tech Stack
 
 - Python
